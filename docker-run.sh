@@ -1,0 +1,1 @@
+docker run --name logger_api -d -p 5000:5000 loggerapi:latest

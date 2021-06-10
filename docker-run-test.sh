@@ -1,0 +1,1 @@
+docker exec -it logger_api sh run-tests.sh
